@@ -21,7 +21,8 @@ namespace CsvToEntityDemo.Database
         public int Add(Artist artist)
         {
             context.Artists.Add(artist);
-            return context.SaveChanges();
+            context.SaveChanges();
+            return artist.Id;
         }
 
         /// <summary>

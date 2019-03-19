@@ -21,7 +21,8 @@ namespace CsvToEntityDemo.Database
         public int Add(MusicTrack musicTrack)
         {
             context.MusicTracks.Add(musicTrack);
-            return context.SaveChanges();
+            context.SaveChanges();
+            return musicTrack.Id;
         }
 
         /// <summary>
