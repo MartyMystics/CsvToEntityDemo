@@ -1,0 +1,17 @@
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\CsvToEntityDemo.exe.config
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\CsvToEntityDemo.exe
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\CsvToEntityDemo.pdb
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\obj\Debug\CsvToEntityDemo.csproj.CoreCompileInputs.cache
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\obj\Debug\CsvToEntityDemo.exe
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\obj\Debug\CsvToEntityDemo.pdb
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\EntityFramework.dll
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\EntityFramework.xml
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\obj\Debug\CsvToEntityDemo.csproj.CopyComplete
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\Autofac.dll
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\Autofac.pdb
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\Autofac.xml
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\TestData\Artist.csv
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\bin\Debug\TestData\MusicTrack.csv
+E:\Development\Recreo\CsvToEntityDemo\CsvToEntityDemo\obj\Debug\CsvToEntityDemo.csprojAssemblyReference.cache
